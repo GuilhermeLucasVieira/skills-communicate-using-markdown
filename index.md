@@ -1,12 +1,22 @@
-# This is an `<h1>` header, which is the largest
+Step 3: Add a code example
+Great job adding an image to the file 🎉
 
-## This is an `<h2>` header
+Let's add some code blocks. Code blocks can render differently depending on the language.
 
-###### This is an `<h6>` header, which is the smallest
-
-This is an <h1> header, which is the largest
-This is an <h2> header
-This is an <h6> header, which is the smallest
+Example 1
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+How it looks
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+Example 2
+``` javascript
+var myVar = "Hello, world!";
+```
+How it looks
+var myVar = "Hello, world!";
 
 Great job adding headers to the file ✨
 
